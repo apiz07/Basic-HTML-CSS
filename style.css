@@ -1,0 +1,52 @@
+.subs-btn
+{
+    background-color: rgb(200, 0, 0);
+    color: white;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 4px;
+    margin-left: 4px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    transition: opacity 0.15s;
+    vertical-align: top;
+}
+
+.subs-btn:hover
+{
+    opacity: 0.8;
+}
+
+.title-card
+{
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.moti
+{
+    margin-bottom: 20px;
+    font-family: Arial;
+    background-color: rgb(227, 65, 64);
+    color: white;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+
+.searchbar
+{
+    font-size: 20px;
+    margin-left: 12px;
+    
+}
+
+.thumbnail
+{
+    width: 275px;
+}
