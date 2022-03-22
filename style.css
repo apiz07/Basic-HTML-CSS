@@ -1,4 +1,4 @@
-.subs-btn
+/* .subs-btn
 {
     background-color: rgb(200, 0, 0);
     color: white;
@@ -37,16 +37,25 @@
     text-align: center;
     padding-top: 18px;
     padding-bottom: 18px;
-}
+} */
 
 .searchbar
 {
-    font-size: 20px;
-    margin-left: 12px;
-    
+    display: block;    
 }
 
 .thumbnail
 {
     width: 275px;
+}
+
+.vid-title
+{
+    width: 300px;
+}
+
+.vid-container
+{
+    display: inline-block;
+    vertical-align: top;
 }
